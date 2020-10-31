@@ -2,10 +2,24 @@
   "posts": [
     {
       "id": 1,
+      "count": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "count": 1,
+      "title": "world"
+    },
+    {
+      "id": 3,
+      "count": 2,
+      "title": "hello world"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": {
+      "first": "stanley",
+      "last": "huang"
+    }
   }
 }
