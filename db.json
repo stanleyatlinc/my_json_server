@@ -16,6 +16,40 @@
       "title": "hello world"
     }
   ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "class_1",
+      "students": [
+        {
+          "id": 1,
+          "firt_name": "F_1",
+          "last_name": "L_1"
+        },
+        {
+          "id": 2,
+          "firt_name": "F_2",
+          "last_name": "L_2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "class_2",
+      "students": [
+        {
+          "id": 1,
+          "firt_name": "F_3",
+          "last_name": "L_3"
+        },
+        {
+          "id": 2,
+          "firt_name": "F_4",
+          "last_name": "L_4"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": {
       "first": "stanley",
