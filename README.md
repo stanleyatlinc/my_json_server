@@ -10,5 +10,6 @@ Test Link:
 4. http://my-json-server.typicode.com/stanleyatlinc/my_json_server/posts?count=101&title=world
 5. http://my-json-server.typicode.com/stanleyatlinc/my_json_server/posts?count=102
 6. http://my-json-server.typicode.com/stanleyatlinc/my_json_server/posts?count=102&title=not_found
+7. http://my-json-server.typicode.com/stanleyatlinc/my_json_server/classes/1/students/1
 
 Ref: https://my-json-server.typicode.com/
