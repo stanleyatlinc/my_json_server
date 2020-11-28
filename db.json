@@ -2,17 +2,17 @@
   "posts": [
     {
       "id": 1,
-      "count": 1,
+      "count": 101,
       "title": "hello"
     },
     {
       "id": 2,
-      "count": 1,
+      "count": 101,
       "title": "world"
     },
     {
       "id": 3,
-      "count": 2,
+      "count": 102,
       "title": "hello world"
     }
   ],
